@@ -105,7 +105,9 @@ python gs_file_to_ply.py --input_dir <OUTPUT_PATH> --output_file model.ply
 ```
 
 
-https://github.com/user-attachments/assets/9f7ed263-2c2d-4894-b10c-950502af22f8
+
+https://github.com/user-attachments/assets/072e0ac0-3bbb-43dd-b0e1-f67bf7d35091
+
 
 
 ---
