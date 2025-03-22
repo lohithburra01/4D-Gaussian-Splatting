@@ -1,6 +1,9 @@
 # **4D Gaussian Splatting Pipeline**  
 
-https://github.com/user-attachments/assets/9256fc36-219f-425c-aac1-40de6f2cc510
+
+https://github.com/user-attachments/assets/df3f152c-c4c3-4bc8-80de-6f5948cb7a48
+
+
 ## **Overview**  
 This project implements a **4D Gaussian Splatting (4DGS) pipeline** for reconstructing dynamic 3D scenes from multi-view images. The system processes frames captured from a **camera array setup** around an animated object and optimizes **3D Gaussians** to represent the scene efficiently.  
 
@@ -100,7 +103,7 @@ To convert Gaussians to `.ply`:
 ```bash
 python gs_file_to_ply.py --input_dir <OUTPUT_PATH> --output_file model.ply
 ```
-
+https://github.com/user-attachments/assets/9256fc36-219f-425c-aac1-40de6f2cc510
 ---
 
 ## **Future Improvements**  
