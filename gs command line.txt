@@ -1,0 +1,1 @@
+python gs_pipeline.py --data_dir "C:/Users/91910/Downloads/heart 4dgs" --output_dir "C:/Users/91910/Downloads/gs_output" --frame "Frame0001"
