@@ -103,7 +103,11 @@ To convert Gaussians to `.ply`:
 ```bash
 python gs_file_to_ply.py --input_dir <OUTPUT_PATH> --output_file model.ply
 ```
-https://github.com/user-attachments/assets/9256fc36-219f-425c-aac1-40de6f2cc510
+
+
+https://github.com/user-attachments/assets/9f7ed263-2c2d-4894-b10c-950502af22f8
+
+
 ---
 
 ## **Future Improvements**  
